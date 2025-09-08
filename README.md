@@ -14,7 +14,8 @@ Responsive and lightweight.
 
 🖼️ Demo Screenshot
 
-(Add screenshot of your project here, e.g., ![Demo](screenshot.png))
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/1931f345-71eb-4e87-b1f5-0a6dc5c4bc68" />
+
 
 📂 Project Structure
 .
